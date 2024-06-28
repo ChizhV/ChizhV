@@ -12,7 +12,7 @@
 - Тестовая документация
   -  [Чек-листы](https://ссылочку_сюда)
   -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
+  -  [Mindmaps and S&T Diagrams](https://github.com/ChizhV/mindmaps-and-stdiagram-portfolio)
   -  [Баг-репорты](https://github.com/ChizhV/bug-reports-portfolio)
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
